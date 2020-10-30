@@ -75,6 +75,10 @@ function keyPressed() {
 	  Matter.Body.applyForce(bob1.body,bob1.body.position,{x:-50,y:-45});
 	}
 	if(keyCode === DOWN_ARROW){
-		Matter.body.applyForce(bob5.body,bob5.body.position,{x:-50,y:-45})
+		Matter.Body.applyForce(bob4.body,bob4.body.position,{x:50,y:-45})
+	}
+		if (keyCode === 32) {
+
+	  Matter.Body.applyForce(bob5.body,bob5.body.position,{x:-50,y:-45});
 	}
 }
