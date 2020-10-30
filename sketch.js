@@ -61,11 +61,13 @@ text("Newton's cradle is a device that demonstrates conservation of momentum and
 text("series of swinging spheres. When one sphere at the end is lifted and released, it strikes the",600,150)
 text("stationary spheres, transmitting a force through the stationary spheres that pushes the ",600,200)
 text("last sphere upward.",600,250)
-text("Press 'UP ARROW' key to experience that...... ",600,300)
+text("Press 'UP ARROW' key to move first bob...... ",600,300)
+text("Press 'DOWN ARROW' key to move last bob...... ",600,350)
 text("A simple pendulum consists of a mass m hanging from a string of length L and fixed",600,400)
 text("at a pivot point P. When displaced to an initial angle and released, the pendulum will",600,450)
 text("swing back and forth with periodic motion. ... with being the natural frequency of the",600,500)
 text("motion",600,550)
+text("Press space key to move the simple pendulam",600,600)
 }
 
 
